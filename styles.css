@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+div{
+	border: 2px solid black;
+	color:purple;
+	background-color:lightblue;
+	width:250px;
+	height:250px;
+	display:flex;
+	align-items:center;
+	align-content:center;
+}
